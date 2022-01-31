@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabmartin. English is not my first language, so take it into consideration while reading this file.
+- 👋 Hi, I’m @gabmartin.
 - 👀 I’m interested in game development, storytelling and filmmaking.
 - 🌱 I’m currently learning CSS, HTML and Javascript. I discovered programming in university, where I learnt the basics of html and css. 
 I also created an RPG 2D game in Unity for my final degree project.
